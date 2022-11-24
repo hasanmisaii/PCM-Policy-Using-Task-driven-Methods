@@ -3,7 +3,7 @@
 Created on Mon Dec  6 11:34:43 2021
 
 @author: misaiiha
-generate masked data using random.multinomial
+generate masked data using random.multinomial (Time and cause dependent model)
 """
 
 import numpy as np
