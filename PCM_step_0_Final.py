@@ -4,7 +4,7 @@ Created on Fri Nov  5 13:36:04 2021
 
 @author: misaiiha
 
-step 0: sans masked data
+step 0: without considering masked data
 """
 import numpy as np
 import pandas as pd
