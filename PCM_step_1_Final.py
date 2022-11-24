@@ -4,7 +4,7 @@ Created on Fri Nov  5 13:36:04 2021
 
 @author: misaiiha
 
-step 1: Random generation of Masked sets
+step 1: Random generation of Masked sets (Not using time and cause dependent) 
 """
 import numpy as np
 import pandas as pd
